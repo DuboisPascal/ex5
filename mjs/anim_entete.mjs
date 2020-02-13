@@ -3,6 +3,6 @@ export class anim_entete{
 
     }
     anim(){
-        console.log(­­'animation');
+        console.log('animation');
     }
 }
